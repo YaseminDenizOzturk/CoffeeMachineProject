@@ -103,7 +103,7 @@ control_variable = True
 
 while control_variable:
     print("Welcome!")
-    print("☕️☕️☕️ I'm a very smart coffe machine! ☕️☕️☕️")
+    print("☕️☕️☕️ I'm a very smart coffee machine! ☕️☕️☕️")
     print("I can only make hot drinks☕️")
     drink_selection = input("​What would you like?\nespresso\nlatte\nmocha\namericano\nmacchiato\nREPORT\n").lower()
     # tamir durumlarında off seçeneği kullanılarak makine kapatılıp bakım yapılabilir .
